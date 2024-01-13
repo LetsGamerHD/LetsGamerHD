@@ -1,5 +1,5 @@
 - Hi, I’m @LetsGamerHD
-- I’m interested in Coding 
+- I’m interested in coding 
 - I’m currently learning Java 
 
 <!---
