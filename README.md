@@ -25,3 +25,7 @@
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letsgamerhd&layout=compact&theme=radical)
+
+## GitHub Contributions
+
+![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=letsgamerhd&theme=radical)
