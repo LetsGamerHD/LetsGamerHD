@@ -2,10 +2,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=letsgamerhd&color=blueviolet)
 
-## About Me
-
-- 🔭 I’m currently working on [my README](https://github.com/letsgamerhd/LetsGamerHD)
-
 ## Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
